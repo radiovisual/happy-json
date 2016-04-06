@@ -39,7 +39,7 @@ happyAsJSON('unicorns');
 //=> false
 ```
 
-Take a look at the [tests](https://github.com/radiovisual/happy-json/test/test.js) for more usage examples. 
+Take a look at the [tests](https://github.com/radiovisual/happy-json/blob/master/test/test.js) for more usage examples. 
 
 ## API
 
