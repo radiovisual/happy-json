@@ -5,7 +5,7 @@
 > Check if your string or object is valid JSON, or could happily be valid JSON. :smiley:
 
 This is not a strict JSON validator (although it sort of behaves like one). If you simply want strict JSON validation, then
- there are other modules out there. What this module does is check if your object or string *is valid or could be valid* JSON,
+ there are other modules out there. What this module does is check if your object or string **is valid or could be valid** JSON,
  because sometimes your application wants to know these things in order for it to be truly happy. :smiley:
 
 

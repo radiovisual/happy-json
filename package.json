@@ -1,7 +1,7 @@
 {
   "name": "happy-json",
   "version": "0.0.1",
-  "description": "Check if your string or object is valid JSON, or could happily be valid JSON.",
+  "description": "Check if your string or object is (or could happily be) valid JSON.",
   "license": "MIT",
   "repository": "radiovisual/happy-json",
   "author": {
