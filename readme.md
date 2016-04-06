@@ -1,12 +1,12 @@
-# happy-json :smile:
+# happy-json :smiley:
 
 [![Build Status](https://travis-ci.org/radiovisual/happy-json.svg?branch=master)](https://travis-ci.org/radiovisual/happy-json)
 
 > Check if your string or object is valid JSON, or could happily be valid JSON. :smiley:
 
-Sometimes you need to check if your objects are valid JSON (in which case, this module does what so many others do), but
-other times you just need to check if your object or string *could be* valid JSON, because sometimes your application wants
-to know these things in order for it to be happy. :smiley:
+This is not a strict JSON validator (although it sort of behaves like one). If you simply want strict JSON validation, then
+ there are other modules out there. What this module does is check if your object or string *is valid or could be valid* JSON,
+ because sometimes your application wants to know these things in order for it to be truly happy. :smiley:
 
 
 ## Install
