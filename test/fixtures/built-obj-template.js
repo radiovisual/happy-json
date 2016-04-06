@@ -6,5 +6,5 @@ var string = "hello";
 var bool = true;
 
 module.exports = function () {
-	return `"{\"a\":{\"a1\":${array},\"a2\":{\"b\":${number},\"c\":${array}}},\"b\":\"${string}\",\"c\":[1,2,3],\"d\":\"${date}\",\"e\":${bool}"`;
+	return `"{a:{a1:${array},a2:{b:${number},c:${array}}},b:${string},c:[1,2,3],d:${date},e:${bool}}"`;
 };

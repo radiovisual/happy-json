@@ -1,7 +1,7 @@
 import test from 'ava';
 import isJSON from '../';
 
-const nodeVersion = require('node-ver').major;
+const nodeVersion = require('node-ver')().major;
 
 const stringified = require('./fixtures/stringify.js')();
 const simplejson = require('./fixtures/simple.json');
