@@ -1,0 +1,44 @@
+{
+  "name": "happy-json",
+  "version": "0.0.1",
+  "description": "Check if your string or object is valid JSON, or could happily be valid JSON.",
+  "license": "MIT",
+  "repository": "radiovisual/happy-json",
+  "author": {
+    "name": "Michael Wuergler",
+    "email": "wuergler@gmail.com",
+    "url": "numetriclabs.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava --verbose"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "validate",
+    "happy",
+    "application",
+    "your",
+    "keep",
+    "valid",
+    "is",
+    "string",
+    "json",
+    "or",
+    "object",
+    "JSON",
+    "your",
+    "if",
+    "check"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.12.0",
+    "node-ver": "0.0.2",
+    "xo": "^0.12.1"
+  }
+}
