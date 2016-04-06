@@ -1,6 +1,6 @@
 'use strict';
 module.exports = function () {
-	const obj = {
+	var obj = {
 		a: {
 			a1: [1, 2, 3, 4],
 			a2: {
